@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Prevents scrolling */
+}
+
+#container {
+    width: 100vw;
+    height: 100vh; /* Full viewport height */
+}
